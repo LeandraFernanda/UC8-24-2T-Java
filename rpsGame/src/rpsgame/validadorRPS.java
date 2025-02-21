@@ -9,16 +9,9 @@ package rpsgame;
  * @author LEANDRAFERNANDAVIEIR
  */
 public class validadorRPS {
-        public boolean validadorRPS(int guess, int numberToRPS) {
-        if (guess > numberToRPS){
-            System.out.println("Seu Palpite está errado!");
-            return false;
-        }
-        else{
-            return true; // Palpite correto
-        }
-        
-    }
+    //Usuario = (in)(Match.random()*3) + 1;
+    
+    
 }
     
 
